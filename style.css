@@ -474,7 +474,6 @@ h3 {
 
     p{
         padding: 0px;
-        margin-bottom: 35px;
     }
 
     /***Filtres***/
@@ -663,8 +662,6 @@ h3 {
     main p {
         font-size: 16px;
         line-height: 19px;
-        margin-top: 0px;
-        padding-left: 20px;
     }
 
     #main h2{
